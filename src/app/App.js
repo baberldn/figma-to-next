@@ -26,7 +26,7 @@ const App = () => {
     
           <form className="w-full">
             <div className="mb-6">
-              <label htmlFor="email" className="block text-gray-700 text-sm mb-2">Username</label>
+              <label htmlFor="email" className="block text-gray-700 text-sm mb-2"></label>
               <input
                 type="email"
                 id="email"
@@ -35,7 +35,7 @@ const App = () => {
               />
             </div>
             <div className="mb-6">
-              <label htmlFor="password" className="block text-gray-700 text-sm mb-2">Password</label>
+              <label htmlFor="password" className="block text-gray-700 text-sm mb-2"></label>
               <input
                 type="password"
                 id="password"
